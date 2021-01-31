@@ -1,0 +1,101 @@
+.yamGo {
+  height: 49px;
+  width: 145px
+}
+
+#first {
+  width: 145px;
+  padding: 0px;
+  margin: auto;
+}
+
+#second {
+  margin: auto;
+}
+
+#third {
+  text-align: center;
+  width: 200px;
+  padding: 0px;
+  margin: auto;
+}
+
+.canDiv {
+  padding: 0px;
+  margin: auto;
+  width: 304px;
+}
+
+.can {
+  height: 64px;
+  width: 304px
+}
+
+.gogo {
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.gogoDiv {
+  padding: 0px;
+  margin: auto;
+  width: 80px;
+}
+
+h3 {
+  font-family: fantasy;
+  text-decoration: underline;
+  font-weight: 18px;
+}
+
+.tableDiv {
+  border-radius: 20px;
+  padding: 0px;
+  margin: auto;
+  border: 1px #000000 solid;
+  background-color: #d77856;
+  width: 350px;
+}
+
+.ul {
+  align-self: center;
+}
+
+.table {
+    font-family: verdana,arial,sans-serif;
+    font-size:15px;
+    color:#333333;
+    border-width: 3px;
+    border-color: #a9c6c9;
+    border-collapse: collapse;
+}
+
+.A {
+    font-family: fantasy;
+}
+
+.B {
+	font-family: fantasy;
+	text-decoration: underline;
+	font-weight: 15px;
+}
+
+.oddrowcolor{
+    background-color:#d4e3e5;
+}
+.evenrowcolor{
+    background-color:#c3dde0;
+}
+
+.casadeyam {
+  height: 73px;
+  width: 144px
+}
+
+.qrcode {
+  height: 196px;
+  width: 200px
+}
